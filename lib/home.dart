@@ -25,7 +25,7 @@ class _HomeScreenState extends State<HomeScreen> {
         },
         items: [
           BottomNavigationBarItem(
-            backgroundColor: Colors.deepOrange,
+           // backgroundColor: Colors.deepOrange,
             icon: Icon(Icons.check_circle),
             label: 'Tasks',
           ),
