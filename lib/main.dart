@@ -6,10 +6,15 @@ void main() {
 }
 
 class Main extends StatelessWidget {
+  final primaryColor = Color(0xff08bd80);
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      theme: ThemeData(
+        primaryColor: primaryColor,
+      ),
       home: HomeScreen(),
+      //HomeScreen() is a separate widget for first page in (lib/home.dart)
     );
   }
 }
