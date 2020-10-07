@@ -1,6 +1,6 @@
 # free_finance
 
-A new Flutter application by AJay Lakhimale for managing money efficiently and keep track of it
+A new Flutter application by AJay Lakhimale for understanding the working of flutter's BottomNavigationBar().
 
 ## Getting Started
 
