@@ -1,4 +1,4 @@
-# free_finance
+# bottomNavigationBar
 
 A new Flutter application by AJay Lakhimale for understanding the working of flutter's BottomNavigationBar().
 
